@@ -9,7 +9,7 @@ npm install webpack -g
 
 ## To Run
 ```
-webpack build
+webpack
 oc dev build/components/
 ```
 
