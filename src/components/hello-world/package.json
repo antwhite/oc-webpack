@@ -1,0 +1,28 @@
+{
+  "name": "hello-world",
+  "description": "Hello World",
+  "version": "0.0.0",
+  "author": "Ant White<acwhite@opentable.com>",
+  "repository": "http://github.com/antwhite/oc-webpack",
+  "oc": {
+    "files": {
+      "data": "server.js",
+      "template": {
+        "src": "template.jade",
+        "type": "jade"
+      }
+    },
+    "plugins": [
+    ],
+    "parameters": {
+      "name": {
+        "type": "string",
+        "mandatory": true,
+        "description": "name",
+        "example": "James"
+      }
+    }
+  },
+  "dependencies": {
+  }
+}
