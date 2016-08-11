@@ -12,5 +12,8 @@ npm install webpack -g
 webpack build
 oc dev build/components/
 ```
-Visit http://localhost:300/ and view the component 
 
+Visit [http://localhost:3000/](http://localhost:3000/) and view the hello-world component 
+
+## License
+MIT

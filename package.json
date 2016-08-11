@@ -1,5 +1,5 @@
 {
-  "name": "webpack-oc",
+  "name": "oc-webpack",
   "version": "1.0.0",
   "description": "",
   "main": " ",
@@ -26,6 +26,6 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Ant White <acwhite@opentable.com>",
+  "license": "MIT"
 }
